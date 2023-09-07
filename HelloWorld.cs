@@ -7,7 +7,7 @@ namespace Test
 		{
 			WriteLine("Hello World!");
 			WriteLine("This is Sanders93 World Now!");
-		
+			WriteLine("This is a Test");
 		}
 	}
 }
