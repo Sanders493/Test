@@ -6,7 +6,7 @@ namespace Test
 		static void Main()
 		{
 			WriteLine("Hello World!");
-			WriteLine("This is Sanders9 World Now!");
+			WriteLine("This is Sanders World Now!");
 		
 		}
 	}
